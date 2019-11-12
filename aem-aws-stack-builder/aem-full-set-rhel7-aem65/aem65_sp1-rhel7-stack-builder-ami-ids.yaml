@@ -9,3 +9,4 @@ ami_ids:
   orchestrator: ami-0b3e8679ec14fc531
   publish: ami-0dac3473b6b934620
   publish_dispatcher: ami-0b3da0d826cc5048d
+
